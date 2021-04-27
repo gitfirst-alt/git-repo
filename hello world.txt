@@ -1,3 +1,3 @@
-// мета язык
+// РјРµС‚Р° С‚РµРі
 print("Hello world")
 print("Hello everyone")
