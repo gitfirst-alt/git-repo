@@ -1,2 +1,3 @@
 // мета язык
 print("Hello world")
+print("Hello everyone")
